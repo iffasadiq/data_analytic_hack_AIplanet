@@ -86,7 +86,7 @@ The solution involves a typical machine learning pipeline for a classification t
 * `train.csv`: Training data.
 * `test.csv`: Test data.
 * `sample_submission.csv`: Example submission format.
-* `Aiplanethackathon.ipynb': The main script/notebook containing the Python code for data loading, preprocessing, model training, and prediction.
+* `aiplanethackathon.ipynb`: The main script/notebook containing the Python code for data loading, preprocessing, model training, and prediction.
 * `submission.csv`: The generated submission file after running the code.
 
 ## Results
